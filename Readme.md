@@ -1,5 +1,5 @@
-#w5p
-##wordle list packer for memory constrained systems
+#w5p#
+##wordle list packer for memory constrained systems##
 
 This is a small C program to pack 5-letter ASCII word lists into
 a binary file of 5-bits per letter.

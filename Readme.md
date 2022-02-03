@@ -19,7 +19,7 @@ Example use:
 
 That's it, that's the program. I've included the "official" input
 list and the results of a run of the program- so no need to even
-run it if you're after the output.
+run it if you're just after the output.
 
 *Note:
 Since it processes these files in RAM, the program itself requires
